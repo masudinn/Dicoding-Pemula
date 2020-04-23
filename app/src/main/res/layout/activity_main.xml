@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bismillah LULUS :)"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:fontFamily="@font/mbold"
+        />
+
+    <ImageView
+        android:id="@+id/android"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/android"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/mbold"
+        android:textSize="20dp"
+        android:layout_below="@id/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android Pemula DICODING"
+        />
+</RelativeLayout>

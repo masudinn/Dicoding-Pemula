@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubmissionAndroid</string>
+    <string name="nama">Nama : Fachrudin Effendi</string>
+    <string name="asal">Asal    : Sragen,JawaTengah</string>
+    <string name="email">Email  : fachrudin.2000@students.amikom.ac.id</string>
+    <string name="kuliah">Kuliah : Univ.Amikom Yogyakarta</string>
+    <string name="bawah">~TeloGoreng~</string>
+</resources>
