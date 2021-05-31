@@ -1,2 +1,2 @@
 # RecyclerView
-Recycler View about planet
+Recycler View planet
